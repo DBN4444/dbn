@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>字节指针main</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <p style="
+      background-color:#f1f1f1;
+      text-align:center;
+      padding:40px;
+      font-size:20px;
+    ">字节指针</p>
+    
+    <p style="
+      background-color:#f1f1f1;
+      text-align:center;
+      padding:40px;
+      font-size:12px;
+    ">版权所有：<a href="https://www.luogu.com.cn/team/121665">字节指针</a></p>
+  </body>
+</html>
